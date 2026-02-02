@@ -47,5 +47,5 @@ I’m a **Software Developer** based in Noida, India, with 3 years of experience
 
 ## 📬 Get in Touch
 
-* 📧 **Email:** [yuvibana03@gmail.com](mailto:yuvibana03@gmail.com)
-* 🔗 **LinkedIn:** [linkedin.com/in/yuviBana](https://www.linkedin.com/in/yuviBana)
+* 📧 **Email:** [bpsinghrajput03@gmail.com](mailto:bpsinghrajput03@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/bhupendra-singh-rajput](https://www.linkedin.com/in/bhupendra-singh-rajput-890316295/)
