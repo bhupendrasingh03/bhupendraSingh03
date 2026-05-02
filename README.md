@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **Software Developer** based in Noida, India, with 3 years of experience in building responsive, user-centric web applications. I thrive on developing scalable, performant solutions using modern technologies.
+I’m a **Software Developer** based in Noida, India, with 4+ years of experience in building responsive, user-centric web applications. I thrive on developing scalable, performant solutions using modern technologies.
 
 ## 🛠️ Skills
 
