@@ -8,11 +8,11 @@ I’m a **Software Developer** based in Noida, India, with 4+ years of experienc
 
 ### **Core Technologies**
 
-* **HTML**, **CSS**, **JavaScript**, **Ajax**, **Fetch**
+* **HTML**, **CSS**, **JavaScript**, **typeScript**, **Ajax**, **Fetch**
 
 ### **Modern Frameworks & Libraries**
 
-* **React ⚛️**, **Redux**, **Vuejs**, **Nextjs**, **Tailwind CSS**
+* **React ⚛️**, **Nextjs**, **Redux**, **Vuejs**, **Tailwind CSS**
 
 ### **Tooling & Practices**
 
@@ -44,6 +44,11 @@ I’m a **Software Developer** based in Noida, India, with 4+ years of experienc
 * **Tech Stack:** ASP.NET MVC, JavaScript
 * **Accomplishments:**
   * Built responsive, interactive UIs, dynamic CRM from.
+
+## Currently Learning
+- Python + FastAPI
+- API design
+- Agentic AI
 
 ## 📬 Get in Touch
 
